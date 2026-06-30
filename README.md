@@ -35,7 +35,6 @@ PSP Music Downloader is designed to make building a PSP music library simple. Se
 - Choose CBR or VBR encoding.
 - Select bitrates up to `256 kbps`.
 - Adjust output volume.
-- Create ATRAC3 `.at3` files on Windows.
 - Remove temporary source files after conversion.
 
 ### Metadata And Organization
